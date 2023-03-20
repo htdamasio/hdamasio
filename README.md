@@ -34,12 +34,12 @@ I'm starting  to blog about technologies and concepts that are fundamental for e
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Portifolio](https://github.com/htdamasio/portifolio)  
+- 🔭 I’m currently working on a project called Nexus <!-- [Portifolio](https://github.com/htdamasio/portifolio)   -->
   
 
-- 🌱 I’m currently learning React and GraphQL  
-  
+- 🌱 I’m currently working with React and Node (TS) <!--   learning React and GraphQL   -->  
 
+  
 - ❓ Ask me about Full-Stack development  
   
 
